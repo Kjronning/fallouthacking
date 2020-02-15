@@ -1,0 +1,7 @@
+.word{
+    display: inline-block;
+}
+.word:hover{
+    background-color: black;
+    color: white;
+}
